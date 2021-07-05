@@ -3,4 +3,6 @@ Rails.application.routes.draw do
 
   resources :taskcards
   resources :links
+  resources :organizations
+
 end
